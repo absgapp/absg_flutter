@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" fill="none">
+    <path d="M100 150 v -50 h -30 l 80 -60 l 80 60 h -30 v 50Z" fill="blue" stroke="blue"/>
+
+  <g transform=" translate(150, 150) ${_svg_matrix_str} scale(${_circle_r / 50}) translate(-150, -150)">
+    rect fill="red" x="0" y="0" width="10" height="10"/>
+   <circle cx="150" cy="150" r="50" fill="blue"/>
+
+  </g>
+
+  
+</svg>
+</svg>

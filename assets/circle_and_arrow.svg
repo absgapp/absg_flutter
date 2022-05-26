@@ -1,0 +1,72 @@
+<svg width="378" height="563" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xml:space="preserve" overflow="hidden">
+    <defs>
+        <filter id="fx0" x="-10%" y="-10%" width="120%" height="120%" filterUnits="userSpaceOnUse"
+            primitiveUnits="userSpaceOnUse">
+            <feComponentTransfer color-interpolation-filters="sRGB">
+                <feFuncR type="discrete" tableValues="0 0" />
+                <feFuncG type="discrete" tableValues="0 0" />
+                <feFuncB type="discrete" tableValues="0 0" />
+                <feFuncA type="linear" slope="0.631373" intercept="0" />
+            </feComponentTransfer>
+            <feGaussianBlur stdDeviation="6.875 6.875" />
+        </filter>
+        <filter id="fx1" x="-10%" y="-10%" width="120%" height="120%" filterUnits="userSpaceOnUse"
+            primitiveUnits="userSpaceOnUse">
+            <feComponentTransfer color-interpolation-filters="sRGB">
+                <feFuncR type="discrete" tableValues="0 0" />
+                <feFuncG type="discrete" tableValues="0 0" />
+                <feFuncB type="discrete" tableValues="0 0" />
+                <feFuncA type="linear" slope="0.631373" intercept="0" />
+            </feComponentTransfer>
+            <feGaussianBlur stdDeviation="6.875 6.875" />
+        </filter>
+        <clipPath id="clip2">
+            <rect x="859" y="301" width="378" height="563" />
+        </clipPath>
+        <clipPath id="clip3">
+            <rect x="-3" y="-3" width="387" height="402" />
+        </clipPath>
+        <clipPath id="clip4">
+            <rect x="0" y="0" width="380" height="396" />
+        </clipPath>
+        <linearGradient x1="1048" y1="315" x2="1048" y2="667" gradientUnits="userSpaceOnUse" spreadMethod="reflect"
+            id="fill5">
+            <stop offset="0" stop-color="#6083CB" />
+            <stop offset="0.5" stop-color="#3E70CA" />
+            <stop offset="1" stop-color="#2E61BA" />
+        </linearGradient>
+        <clipPath id="clip6">
+            <rect x="-3" y="-3" width="387" height="387" />
+        </clipPath>
+        <clipPath id="clip7">
+            <rect x="0" y="0" width="380" height="380" />
+        </clipPath>
+        <linearGradient x1="1048" y1="500" x2="1048" y2="836" gradientUnits="userSpaceOnUse" spreadMethod="reflect"
+            id="fill8">
+            <stop offset="0" stop-color="#6083CB" />
+            <stop offset="0.5" stop-color="#3E70CA" />
+            <stop offset="1" stop-color="#2E61BA" />
+        </linearGradient>
+    </defs>
+    <g clip-path="url(#clip2)" transform="translate(-859 -301)">
+        <g clip-path="url(#clip3)" filter="url(#fx0)" transform="translate(858 300)">
+            <g clip-path="url(#clip4)">
+                <path d="M22 189.875 190 21.8749 358 189.875 274 189.875 274 373.875 106 373.875 106 189.875Z"
+                    fill="#FF0000" fill-rule="evenodd" />
+            </g>
+        </g>
+        <path d="M880 483 1048 315 1216 483 1132 483 1132 667 964 667 964 483Z" fill="url(#fill5)"
+            fill-rule="evenodd" />
+        <g clip-path="url(#clip6)" filter="url(#fx1)" transform="translate(858 485)">
+            <g clip-path="url(#clip7)">
+                <path
+                    <!-- d="M22 189.875C22 97.0913 97.2161 21.8752 190 21.8752 282.784 21.8752 358 97.0913 358 189.875 358 282.659 282.784 357.875 190 357.875 97.2161 357.875 22 282.659 22 189.875Z"
+                    fill="#FF0000" fill-rule="evenodd" /> -->
+            </g>
+        </g>
+        <path
+            d="M880 668C880 575.216 955.216 500 1048 500 1140.78 500 1216 575.216 1216 668 1216 760.784 1140.78 836 1048 836 955.216 836 880 760.784 880 668Z"
+            fill="url(#fill8)" fill-rule="evenodd" />
+    </g>
+</svg>
